@@ -1,9 +1,9 @@
 {
   "name": "BlinkingLabel",
   "version": "0.1.0",
-  "summary": "A short description of BlinkingLabel.",
-  "description": "",
-  "homepage": "https://github.com/<GITHUB_USERNAME>/BlinkingLabel",
+  "summary": "blinking blinking label",
+  "description": "blinking blinking label blinking blinking label",
+  "homepage": "https://github.com/nice-chow/BlinkingLabel",
   "license": "MIT",
   "authors": {
     "neo_chow": "602040511@qq.com"
